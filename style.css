@@ -1,11 +1,10 @@
-/* Basic styles for the body */
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
 }
 
-/* Styling the navigation menu */
 header {
   position: fixed;
   top: 0;
@@ -41,10 +40,10 @@ nav {
 .nav-menu a:hover {
   background-color: #555;
   border-radius: 5px;
-  color: yellow; /* On hover, change text color */
+  color: yellow; 
 }
 
-/* Add some space for sections so the fixed nav doesn't cover content */
+
 section {
   padding: 100px 20px;
   height: 100vh;
